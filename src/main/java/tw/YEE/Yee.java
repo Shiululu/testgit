@@ -3,6 +3,6 @@ package tw.YEE;
 public class Yee {
 
 	public void yee() {
-		System.out.println("YEEEEEEEEEEEEEpaaaEEEEEEEEEEEEEEEEEEEEEEEE");
+		System.out.println("YEEEEEEEEEEEEEpaaaEEEEEE22222222222EEEEEEEEEEEEEEEEEE");
 	}
 }
