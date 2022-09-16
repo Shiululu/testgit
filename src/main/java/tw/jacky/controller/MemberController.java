@@ -334,6 +334,11 @@ public class MemberController {
 		return adminlogin;
 	}
 	
+	
+	public void jjjjjj() {
+		
+	}
+	
 
 	
 
