@@ -1,10 +1,10 @@
-<%@ page language="java" contentType="text/html; charset=BIG5"
-    pageEncoding="BIG5"%>
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
 <head>
-<meta charset="BIG5">
-<title>´ú¸Õ¥Î</title>
+<meta charset="UTF-8">
+<title>æ¸¬è©¦ç”¨</title>
 </head>
 <body>
 
